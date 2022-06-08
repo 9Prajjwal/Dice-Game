@@ -1,0 +1,68 @@
+#main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    width: 70%;
+    border: 1px solid black;
+    margin: auto;
+
+}
+
+#member-1 {
+    height: 130px;
+    width: 20%;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 20%;
+    padding-top: 35px;
+}
+#member-2 {
+    height: 130px;
+    width: 20%;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 20%;
+    padding-top: 35px;
+}
+
+#member-3 {
+    height: 130px;
+    width: 20%;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 20%;
+    padding-top: 35px;
+}
+
+
+#submit_div {
+    width: 50%;
+    height: auto;
+    margin-left: 48%;
+    margin-top: 20px;
+}
+#winner_main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 13%;
+}
+#winner_dice {
+    display: flex;
+    width: 30%;
+    height: 200px;
+    border: 1px solid blue;
+    justify-content: center;
+    align-items: center;
+}
+
+#winner {
+    width: 50%;
+    height: 130px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 20%;
+    padding-top: 35px;
+}
+}
